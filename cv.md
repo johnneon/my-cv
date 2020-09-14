@@ -12,9 +12,9 @@
     >
 4. Skills: 
     - HTML5/CSS3 (BEM methodology)
-    - Webpack
-    - Gulp
-    - JavaScript(ES6, low level :sweat_smile:)
+    - Preprocessors Sass, Less, Pug
+    - Project bundlers Webpack, Gulp
+    - JavaScript(ES6, low level)
     - Jquery
     - Git
     - Design editors like Adobe(PS, XD, AI), Figma, Avacode, Sketch etc.
@@ -34,4 +34,4 @@ I read few books and started my practices with the layout. I like self education
 
 8. English: <br>
 I've studied English before, but I gave up at B2+. Now I go to English courses again, and my speaking 
-skills is improving!
+skills are improving!
