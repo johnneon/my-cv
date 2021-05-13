@@ -51,9 +51,12 @@ a {
 a:hover { text-decoration: underline; }
 
 @media (max-width: 600px) {
-    header { flex-wrap: wrap; }
+    header { display: block; }
 
-    header img { margin-right: 0; }
+    header img {
+        display: block;
+        margin: 0 auto;
+    }
 
     header div { margin-top: 20px; }
 }
