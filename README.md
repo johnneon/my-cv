@@ -1,1 +1,1 @@
-https://johnneon.github.io/rsschool-cv/cv
+https://johnneon.github.io/my-cv/cv
